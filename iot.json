@@ -1,0 +1,44 @@
+{
+    "lectures": [
+        {
+            "title": "IoT Fundamentals",
+            "subject": "IoT",
+            "date": "2025-05-29",
+            "upload_time": "15:00:00",
+            "video_link": "https://cdn.masaischool.com/zoom/87078270195/module_d_session_1748445821000",
+            "pdf_link": "https://coding-platform.s3.amazonaws.com/dev/lms/tickets/553b8703-910e-497d-a953-1dce2b8ff707/KsuzbQtcTIAUwhJs.pdf"
+        },
+        {
+            "title": "IoT Network Protocols",
+            "subject": "IoT",
+            "date": "2025-05-29",
+            "upload_time": "10:45:00",
+            "video_link": "https://cdn.masaischool.com/zoom/87078270195/module_d_session_1748445821000",
+            "pdf_link": "https://coding-platform.s3.amazonaws.com/dev/lms/tickets/553b8703-910e-497d-a953-1dce2b8ff707/KsuzbQtcTIAUwhJs.pdf"
+        },
+        {
+            "title": "IoT Security Challenges",
+            "subject": "IoT",
+            "date": "2025-05-28",
+            "upload_time": "14:20:00",
+            "video_link": "https://cdn.masaischool.com/zoom/87078270195/module_d_session_1748445821000",
+            "pdf_link": ""
+        },
+        {
+            "title": "IoT Data Analytics",
+            "subject": "IoT",
+            "date": "2025-05-28",
+            "upload_time": "08:15:00",
+            "video_link": "https://drive.google.com/file/d/2Iot123/preview",
+            "pdf_link": "https://drive.google.com/file/d/2Iot456/view?usp=sharing"
+        },
+        {
+            "title": "IoT in Smart Cities",
+            "subject": "IoT",
+            "date": "2025-05-27",
+            "upload_time": "13:30:00",
+            "video_link": "https://drive.google.com/file/d/2Iot901/preview",
+            "pdf_link": ""
+        }
+    ]
+}

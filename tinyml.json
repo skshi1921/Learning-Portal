@@ -1,0 +1,44 @@
+{
+    "lectures": [
+        {
+            "title": "Introduction to TinyML",
+            "subject": "TinyML",
+            "date": "2025-05-29",
+            "upload_time": "14:30:00",
+            "video_link": "https://drive.google.com/file/d/1Xyz123/preview",
+            "pdf_link": "https://drive.google.com/file/d/1Xyz456/view?usp=sharing"
+        },
+        {
+            "title": "TinyML Model Optimization",
+            "subject": "TinyML",
+            "date": "2025-05-29",
+            "upload_time": "12:15:00",
+            "video_link": "https://drive.google.com/file/d/1Tml789/preview",
+            "pdf_link": ""
+        },
+        {
+            "title": "Edge Computing with TinyML",
+            "subject": "TinyML",
+            "date": "2025-05-28",
+            "upload_time": "16:45:00",
+            "video_link": "",
+            "pdf_link": "https://drive.google.com/file/d/1Tml012/view?usp=sharing"
+        },
+        {
+            "title": "TinyML Hardware Constraints",
+            "subject": "TinyML",
+            "date": "2025-05-28",
+            "upload_time": "09:30:00",
+            "video_link": "https://drive.google.com/file/d/1Tml345/preview",
+            "pdf_link": "https://drive.google.com/file/d/1Tml678/view?usp=sharing"
+        },
+        {
+            "title": "Applications of TinyML",
+            "subject": "TinyML",
+            "date": "2025-05-27",
+            "upload_time": "11:00:00",
+            "video_link": "https://drive.google.com/file/d/1Tml901/preview",
+            "pdf_link": ""
+        }
+    ]
+}

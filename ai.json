@@ -1,0 +1,44 @@
+{
+    "lectures": [
+        {
+            "title": "AI Applications Overview AI Applications Overview AI Applications Overview",
+            "subject": "General Application of AI",
+            "date": "2025-05-29",
+            "upload_time": "16:00:00",
+            "video_link": "https://drive.google.com/file/d/3Def345/preview",
+            "pdf_link": "https://drive.google.com/file/d/3Def678/view?usp=sharing"
+        },
+        {
+            "title": "Machine Learning in AI",
+            "subject": "General Application of AI",
+            "date": "2025-05-29",
+            "upload_time": "11:30:00",
+            "video_link": "",
+            "pdf_link": "https://drive.google.com/file/d/3Ai012/view?usp=sharing"
+        },
+        {
+            "title": "Deep Learning Fundamentals",
+            "subject": "General Application of AI",
+            "date": "2025-05-28",
+            "upload_time": "15:45:00",
+            "video_link": "https://drive.google.com/file/d/3Ai789/preview",
+            "pdf_link": ""
+        },
+        {
+            "title": "AI in Healthcare",
+            "subject": "General Application of AI",
+            "date": "2025-05-28",
+            "upload_time": "10:00:00",
+            "video_link": "https://drive.google.com/file/d/3Ai123/preview",
+            "pdf_link": "https://drive.google.com/file/d/3Ai456/view?usp=sharing"
+        },
+        {
+            "title": "Ethics in AI",
+            "subject": "General Application of AI",
+            "date": "2025-05-27",
+            "upload_time": "12:00:00",
+            "video_link": "https://drive.google.com/file/d/3Ai901/preview",
+            "pdf_link": ""
+        }
+    ]
+}

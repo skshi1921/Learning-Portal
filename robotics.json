@@ -1,0 +1,44 @@
+{
+    "lectures": [
+        {
+            "title": "Robotics Overview",
+            "subject": "Robotics",
+            "date": "2025-05-29",
+            "upload_time": "15:30:00",
+            "video_link": "https://drive.google.com/file/d/5Jkl567/preview",
+            "pdf_link": "https://drive.google.com/file/d/5Jkl890/view?usp=sharing"
+        },
+        {
+            "title": "Robot Kinematics",
+            "subject": "Robotics",
+            "date": "2025-05-29",
+            "upload_time": "08:30:00",
+            "video_link": "",
+            "pdf_link": "https://drive.google.com/file/d/5Rob012/view?usp=sharing"
+        },
+        {
+            "title": "Robot Control Systems",
+            "subject": "Robotics",
+            "date": "2025-05-28",
+            "upload_time": "13:15:00",
+            "video_link": "https://drive.google.com/file/d/5Rob789/preview",
+            "pdf_link": ""
+        },
+        {
+            "title": "Sensors in Robotics",
+            "subject": "Robotics",
+            "date": "2025-05-28",
+            "upload_time": "07:00:00",
+            "video_link": "https://drive.google.com/file/d/5Rob123/preview",
+            "pdf_link": "https://drive.google.com/file/d/5Rob456/view?usp=sharing"
+        },
+        {
+            "title": "Autonomous Robots",
+            "subject": "Robotics",
+            "date": "2025-05-27",
+            "upload_time": "10:30:00",
+            "video_link": "https://drive.google.com/file/d/5Rob901/preview",
+            "pdf_link": ""
+        }
+    ]
+}
