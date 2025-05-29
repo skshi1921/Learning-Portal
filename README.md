@@ -11,5 +11,5 @@ A Flask-based web application for browsing and watching lecture videos, with a "
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/skshi1921/your-repo.git
    cd your-repo
